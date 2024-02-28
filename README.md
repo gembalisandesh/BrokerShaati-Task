@@ -33,7 +33,10 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-Include screenshots of the app in action (if applicable).
+![Homepage Screenshot]([https://github.com/your_username/your_repository/raw/main/screenshot.png](https://github.com/gembalisandesh/BrokerShaati-Task/issues/1#issue-2158092023)https://github.com/gembalisandesh/BrokerShaati-Task/issues/1#issue-2158092023)
+
+
+
 
 ## License
 
