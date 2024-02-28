@@ -33,9 +33,11 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Homepage Screenshot]([https://github.com/your_username/your_repository/raw/main/screenshot.png](https://github.com/gembalisandesh/BrokerShaati-Task/issues/1#issue-2158092023)https://github.com/gembalisandesh/BrokerShaati-Task/issues/1#issue-2158092023)
-
-
+![Screenshot 1](https://github.com/gembalisandesh/BrokerShaati-Task/raw/main/assets/93411433/1e95c6f2-a642-4551-bd90-1f0c8e7ba0ee)
+![Screenshot 2](https://github.com/gembalisandesh/BrokerShaati-Task/raw/main/assets/93411433/51ce61f3-dd78-4737-995e-52a1e7732764)
+![Screenshot 3](https://github.com/gembalisandesh/BrokerShaati-Task/raw/main/assets/93411433/a844644b-f5af-4b92-8787-4f47c48fe35f)
+![Screenshot 4](https://github.com/gembalisandesh/BrokerShaati-Task/raw/main/assets/93411433/3ac115d0-8fca-43e0-abad-c100ceef21f8)
+![Screenshot 5](https://github.com/gembalisandesh/BrokerShaati-Task/raw/main/assets/93411433/937ec3e5-42a5-4258-b24a-aaddc54fe70a)
 
 
 ## License
